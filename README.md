@@ -56,6 +56,7 @@ WordCards 是一個使用 C# Windows Forms 開發的桌面應用程式。系統�
 ### 1. 主畫面與單字自動播放 (Main Interface)
 
 <img width="734" height="497" alt="image" src="https://github.com/user-attachments/assets/c303b340-27c7-4ed0-ae06-847cef52ae4f" />
+<img width="732" height="498" alt="image" src="https://github.com/user-attachments/assets/46022145-a6dd-4059-bea9-aa32535ee8c0" />
 
 
 ### 2. 編輯單字表單 (Edit Word Form)
