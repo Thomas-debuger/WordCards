@@ -79,11 +79,11 @@
 
 ### 主畫面
 
-<img width="1097" height="712" alt="image" src="https://github.com/user-attachments/assets/7cfff0cd-4b12-4636-a3bc-e4e23cac0726" />
+<img width="1097" height="707" alt="image" src="https://github.com/user-attachments/assets/c49cfd38-0e9c-4d1e-9b64-e3dcd01f5832" />
 
 ### 編輯單字畫面
 
-<img width="457" height="848" alt="image" src="https://github.com/user-attachments/assets/f2df805e-4697-4dc5-8a30-0410c625a63e" />
+<img width="457" height="846" alt="image" src="https://github.com/user-attachments/assets/bd1951b8-9da1-4ec7-9b1d-3be7bfce7f6d" />
 
 ---
 
