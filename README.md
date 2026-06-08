@@ -79,11 +79,11 @@
 
 ### 主畫面
 
-![主畫面](screenshots/main_screen.png)
+<img width="1097" height="712" alt="image" src="https://github.com/user-attachments/assets/7cfff0cd-4b12-4636-a3bc-e4e23cac0726" />
 
 ### 編輯單字畫面
 
-![編輯單字畫面](screenshots/edit_word_screen.png)
+<img width="457" height="848" alt="image" src="https://github.com/user-attachments/assets/f2df805e-4697-4dc5-8a30-0410c625a63e" />
 
 ---
 
