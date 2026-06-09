@@ -52,17 +52,18 @@
             this.sssWord.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.sssWord.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsslMessage});
-            this.sssWord.Location = new System.Drawing.Point(0, 515);
+            this.sssWord.Location = new System.Drawing.Point(0, 506);
             this.sssWord.Name = "sssWord";
-            this.sssWord.Size = new System.Drawing.Size(880, 25);
+            this.sssWord.Size = new System.Drawing.Size(880, 34);
             this.sssWord.TabIndex = 0;
             this.sssWord.Text = "statusStrip1";
             // 
             // tsslMessage
             // 
             this.tsslMessage.ForeColor = System.Drawing.Color.Red;
+            this.tsslMessage.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.tsslMessage.Name = "tsslMessage";
-            this.tsslMessage.Size = new System.Drawing.Size(71, 19);
+            this.tsslMessage.Size = new System.Drawing.Size(104, 25);
             this.tsslMessage.Text = "Message";
             // 
             // lstWordList

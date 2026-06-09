@@ -828,11 +828,16 @@ namespace WordCards
         // ═══════════════════════════════════════════════
         private void BuildStatusBarExtras()
         {
-            // 已在 Designer 中有 tsslMessage；這裡設定字型讓它更好看
-            // （如果 Designer 中沒有，可忽略此處）
+            // 放大最底下狀態列紅字，讓「單字數量 / 學習時間 / 答對答錯」更清楚
             try
             {
-                tsslMessage.Font = new Font("Segoe UI", 9f);
+                sssWord.AutoSize = true;
+                sssWord.Font = new Font("微軟正黑體", 12f, FontStyle.Bold);
+                sssWord.Padding = new Padding(2, 3, 2, 3);
+
+                tsslMessage.Font = new Font("微軟正黑體", 12f, FontStyle.Bold);
+                tsslMessage.ForeColor = Color.Red;
+                tsslMessage.AutoSize = true;
             }
             catch { }
         }
