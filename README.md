@@ -80,8 +80,8 @@
 ### 主畫面
 
 <img width="1092" height="707" alt="image" src="https://github.com/user-attachments/assets/2a442e21-3846-49d7-b093-eb9b1fef8f10" />
-<img width="1093" height="708" alt="image" src="https://github.com/user-attachments/assets/ccce810f-7275-4d94-9ee7-f23f4a80012c" />
 <img width="1097" height="710" alt="image" src="https://github.com/user-attachments/assets/707ceb46-8783-494b-b407-f914c8ac25f4" />
+<img width="1093" height="708" alt="image" src="https://github.com/user-attachments/assets/ccce810f-7275-4d94-9ee7-f23f4a80012c" />
 
 
 ### 編輯單字畫面
